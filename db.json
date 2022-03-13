@@ -6,6 +6,21 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "macedolima22@hotmail.com",
+      "password": "$2a$10$Ms.U9A6QrC/FHKPJlbbmie2dLHYD3qLugXraDdTeq4TTXh9Zga1v.",
+      "name": "Raphael",
+      "age": 34,
+      "id": 2
+    }
+  ],
+  "animals": [
+    {
+      "type": "Dog",
+      "name": "Bob",
+      "userId": 2,
+      "id": 1
     }
   ]
 }
